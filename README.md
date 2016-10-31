@@ -91,6 +91,8 @@ Edit importpath and exportpath variables from resultscript.r with the following 
 
 -exportpath, should be set to where you want to store the html with the results
 
+If Git is set to any other language than English, edit row 16 in ConflictsAnalyzer/src/util/MergeConflicter.java to the corresponding Git message in your language.
+
 run RunStudy.java class from conflictsAnalyzer project
 
 if you have a this problem:
